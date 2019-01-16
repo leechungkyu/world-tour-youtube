@@ -3,8 +3,6 @@
 <br>
 Let's travel the world on YouTube! Within 5 minutes Video Link
 
----
-
 ## 아시아 Asia
 
 ### 대한민국 Korea
@@ -14,6 +12,7 @@ Let's travel the world on YouTube! Within 5 minutes Video Link
 * 백룡 엘리베이터 [Bailong Elevator](https://youtu.be/iNSIHW7v9do)
 
 ### 일본 Japan
+* 도쿄 야경 [Tokyo Night](https://youtu.be/2MWC754oelM)
 
 ## 유럽 Europe
 
