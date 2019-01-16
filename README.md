@@ -1,7 +1,7 @@
 # world-tour-youtube
-세계 여행을 유뷰트로 떠나보자! 5분 이내 영상 링크 모음
+세계 여행을 유튜브로 떠나보자! 5분 이내 영상 링크 모음
 <br>
-Let's travel the world on YouTube!  Within 5 minutes Video Link
+Let's travel the world on YouTube! Within 5 minutes Video Link
 
 ---
 
