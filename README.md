@@ -1,4 +1,4 @@
-# world-tour-youtube
+# world-travel-youtube
 Let's travel the world on YouTube! Within 5 minutes Video Link
 
 ## 아시아 Asia
@@ -20,5 +20,8 @@ Let's travel the world on YouTube! Within 5 minutes Video Link
 ## 북아메리카 North America
 
 ## 남아메리카 Sorth America
+
+### 볼리비아 Bolivia
+* 우유니 사막 [Uyuni salt flats](https://youtu.be/7sA8hP2N61g)
 
 ## 오세아니아 Oceania
