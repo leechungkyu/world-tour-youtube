@@ -19,6 +19,8 @@ Let's travel the world on YouTube! Within 5 minutes Video Link
 
 ## 북아메리카 North America
 
+### 캐나다 Canada
+
 ## 남아메리카 Sorth America
 
 ### 볼리비아 Bolivia
